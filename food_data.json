@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Burger",
+    "description": "Delicious beef burger with lettuce and cheese.",
+    "price": "$5.99",
+    "image": "https://example.com/burger.jpg"
+  },
+  {
+    "name": "Pizza",
+    "description": "Classic pepperoni pizza with mozzarella cheese.",
+    "price": "$8.99",
+    "image": "https://example.com/pizza.jpg"
+  },
+  {
+    "name": "Pasta",
+    "description": "Creamy Alfredo pasta with chicken and garlic bread.",
+    "price": "$7.49",
+    "image": "https://example.com/pasta.jpg"
+  },
+  {
+    "name": "Salad",
+    "description": "Fresh garden salad with mixed greens and vinaigrette.",
+    "price": "$4.99",
+    "image": "https://example.com/salad.jpg"
+  },
+  {
+    "name": "Sushi",
+    "description": "Assorted sushi rolls with soy sauce and wasabi.",
+    "price": "$10.99",
+    "image": "https://example.com/sushi.jpg"
+  }
+]
